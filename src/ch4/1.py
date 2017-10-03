@@ -5,4 +5,6 @@ for magician in magicians:
     
 print(magicians)
 
-print("111")
+print('111')
+
+print('222')
