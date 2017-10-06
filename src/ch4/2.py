@@ -13,3 +13,5 @@ print('branch test -- test conflict')
 
 print('branch test -- test conflict2')
 print('branch test -- test conflict2-feature1')
+
+print('after conflict2')
