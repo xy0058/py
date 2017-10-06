@@ -23,3 +23,5 @@ print('on dev, add one line')
 print('on dev, add one line -- 2')
 
 print('on dev, add one line -- 3')
+
+print('on master, test add but not commit')
