@@ -12,3 +12,4 @@ print('my stupid boss still prefer SVN - 3')
 print('branch test -- test conflict')
 
 print('branch test -- test conflict2')
+print('branch test -- test conflict2-feature1')
