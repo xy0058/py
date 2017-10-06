@@ -17,3 +17,5 @@ print('branch test -- test conflict2-feature1')
 print('after conflict2')
 
 print('on branch dev -- switch before add---')
+
+print('on dev, add one line')
