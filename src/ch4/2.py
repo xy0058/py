@@ -19,3 +19,5 @@ print('after conflict2')
 print('on branch dev -- switch before add---')
 
 print('on dev, add one line')
+
+print('on dev, add one line -- 2')
