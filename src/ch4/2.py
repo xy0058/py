@@ -26,4 +26,4 @@ print('on dev, add one line -- 3')
 
 print('on master, test add but not commit')
 
-print('I am a bug!')
+print('I am a bug! -- fixed!')
