@@ -29,3 +29,7 @@ print('on master, test add but not commit')
 print('I am a bug! -- fixed!')
 
 print('I am a bug 102! -- fixed')
+
+print('on dev, working, add but not commit')
+
+print('on dev, working, edit but not add')
