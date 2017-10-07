@@ -33,3 +33,5 @@ print('I am a bug 102! -- fixed')
 print('on dev, working, add but not commit')
 
 print('on dev, working, edit but not add')
+
+print('test stash -- 2')
