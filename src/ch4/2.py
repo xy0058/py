@@ -37,3 +37,4 @@ print('on dev, working, edit but not add')
 print('test stash -- 2')
 
 print('stash stash --2')
+print('stash stash --1')
